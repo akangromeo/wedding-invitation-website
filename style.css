@@ -36,8 +36,8 @@ body {
 }
 
 .hero h1 {
-  font-family: 'Sacramento', cursive;
-  font-size: 6rem;
+  font-family: 'Great Vibes', cursive;
+  font-size: 4rem;
 }
 
 .hero h4 {
@@ -70,7 +70,7 @@ body {
 
 .mynavbar .navbar-brand,
 .mynavbar .offcanvas-title {
-  font-family: 'Sacramento', cursive;
+  font-family: 'Great Vibes', cursive;
   font-size: 3.2rem;
   font-weight: bold;
 }
@@ -95,7 +95,7 @@ body {
 .rsvp h2,
 .gifts h2 {
   color: var(--pink);
-  font-family: 'Sacramento';
+  font-family: 'Great Vibes', cursive;
   font-size: 5rem;
   font-weight: bold;
 }
@@ -116,7 +116,7 @@ body {
 }
 
 .home .couple h3 {
-  font-family: 'Sacramento';
+  font-family: 'Great Vibes';
   font-size: 2.4rem;
   color: var(--pink);
 }
